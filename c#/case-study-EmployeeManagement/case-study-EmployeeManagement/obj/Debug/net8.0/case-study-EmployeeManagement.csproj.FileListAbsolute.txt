@@ -1,0 +1,14 @@
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\bin\Debug\net8.0\case-study-EmployeeManagement.exe
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\bin\Debug\net8.0\case-study-EmployeeManagement.deps.json
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\bin\Debug\net8.0\case-study-EmployeeManagement.runtimeconfig.json
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\bin\Debug\net8.0\case-study-EmployeeManagement.dll
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\bin\Debug\net8.0\case-study-EmployeeManagement.pdb
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\case-study-EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\case-study-EmployeeManagement.AssemblyInfoInputs.cache
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\case-study-EmployeeManagement.AssemblyInfo.cs
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\case-study-EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\case-study-EmployeeManagement.dll
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\refint\case-study-EmployeeManagement.dll
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\case-study-EmployeeManagement.pdb
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\case-study-EmployeeManagement.genruntimeconfig.cache
+D:\C# sample\case-study-EmployeeManagement\case-study-EmployeeManagement\obj\Debug\net8.0\ref\case-study-EmployeeManagement.dll

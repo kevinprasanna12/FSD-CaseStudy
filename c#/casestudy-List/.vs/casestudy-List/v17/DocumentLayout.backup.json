@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# sample\\casestudy-List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD87B30F-DE76-4C1B-B0E0-D4B0AE6ED9EE}|casestudy-List\\casestudy-List.csproj|d:\\c# sample\\casestudy-list\\casestudy-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD87B30F-DE76-4C1B-B0E0-D4B0AE6ED9EE}|casestudy-List\\casestudy-List.csproj|solutionrelative:casestudy-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C# sample\\casestudy-List\\casestudy-List\\Program.cs",
+              "RelativeDocumentMoniker": "casestudy-List\\Program.cs",
+              "ToolTip": "D:\\C# sample\\casestudy-List\\casestudy-List\\Program.cs*",
+              "RelativeToolTip": "casestudy-List\\Program.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:48:26.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

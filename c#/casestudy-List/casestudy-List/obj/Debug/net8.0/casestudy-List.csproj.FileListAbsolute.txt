@@ -1,0 +1,14 @@
+D:\C# sample\casestudy-List\casestudy-List\bin\Debug\net8.0\casestudy-List.exe
+D:\C# sample\casestudy-List\casestudy-List\bin\Debug\net8.0\casestudy-List.deps.json
+D:\C# sample\casestudy-List\casestudy-List\bin\Debug\net8.0\casestudy-List.runtimeconfig.json
+D:\C# sample\casestudy-List\casestudy-List\bin\Debug\net8.0\casestudy-List.dll
+D:\C# sample\casestudy-List\casestudy-List\bin\Debug\net8.0\casestudy-List.pdb
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\casestudy-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\casestudy-List.AssemblyInfoInputs.cache
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\casestudy-List.AssemblyInfo.cs
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\casestudy-List.csproj.CoreCompileInputs.cache
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\casestudy-List.dll
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\refint\casestudy-List.dll
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\casestudy-List.pdb
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\casestudy-List.genruntimeconfig.cache
+D:\C# sample\casestudy-List\casestudy-List\obj\Debug\net8.0\ref\casestudy-List.dll

@@ -1,0 +1,14 @@
+D:\C# sample\case-study-functions\case-study-functions\bin\Debug\net8.0\case-study-functions.exe
+D:\C# sample\case-study-functions\case-study-functions\bin\Debug\net8.0\case-study-functions.deps.json
+D:\C# sample\case-study-functions\case-study-functions\bin\Debug\net8.0\case-study-functions.runtimeconfig.json
+D:\C# sample\case-study-functions\case-study-functions\bin\Debug\net8.0\case-study-functions.dll
+D:\C# sample\case-study-functions\case-study-functions\bin\Debug\net8.0\case-study-functions.pdb
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\case-study-functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\case-study-functions.AssemblyInfoInputs.cache
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\case-study-functions.AssemblyInfo.cs
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\case-study-functions.csproj.CoreCompileInputs.cache
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\case-study-functions.dll
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\refint\case-study-functions.dll
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\case-study-functions.pdb
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\case-study-functions.genruntimeconfig.cache
+D:\C# sample\case-study-functions\case-study-functions\obj\Debug\net8.0\ref\case-study-functions.dll
