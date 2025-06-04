@@ -1,0 +1,14 @@
+D:\C# sample\case-study-generics\case-study-generics\bin\Debug\net8.0\case-study-generics.exe
+D:\C# sample\case-study-generics\case-study-generics\bin\Debug\net8.0\case-study-generics.deps.json
+D:\C# sample\case-study-generics\case-study-generics\bin\Debug\net8.0\case-study-generics.runtimeconfig.json
+D:\C# sample\case-study-generics\case-study-generics\bin\Debug\net8.0\case-study-generics.dll
+D:\C# sample\case-study-generics\case-study-generics\bin\Debug\net8.0\case-study-generics.pdb
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\case-study-generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\case-study-generics.AssemblyInfoInputs.cache
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\case-study-generics.AssemblyInfo.cs
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\case-study-generics.csproj.CoreCompileInputs.cache
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\case-study-generics.dll
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\refint\case-study-generics.dll
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\case-study-generics.pdb
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\case-study-generics.genruntimeconfig.cache
+D:\C# sample\case-study-generics\case-study-generics\obj\Debug\net8.0\ref\case-study-generics.dll
