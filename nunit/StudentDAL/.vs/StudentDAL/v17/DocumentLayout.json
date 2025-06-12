@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FSD-casestudy\\nunit\\StudentDAL\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18F604A4-FD11-45E9-86ED-7CD83668A847}|StudentTests\\StudentTests.csproj|d:\\fsd-casestudy\\nunit\\studentdal\\studenttests\\studenttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18F604A4-FD11-45E9-86ED-7CD83668A847}|StudentTests\\StudentTests.csproj|solutionrelative:studenttests\\studenttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18F604A4-FD11-45E9-86ED-7CD83668A847}|StudentTests\\StudentTests.csproj|d:\\fsd-casestudy\\nunit\\studentdal\\studenttests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18F604A4-FD11-45E9-86ED-7CD83668A847}|StudentTests\\StudentTests.csproj|solutionrelative:studenttests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4707F3E9-A733-4EFA-848E-E2AA8EB35E4D}|StudentDAL\\StudentDAL.csproj|d:\\fsd-casestudy\\nunit\\studentdal\\studentdal\\buisnesslogic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4707F3E9-A733-4EFA-848E-E2AA8EB35E4D}|StudentDAL\\StudentDAL.csproj|solutionrelative:studentdal\\buisnesslogic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18F604A4-FD11-45E9-86ED-7CD83668A847}|StudentTests\\StudentTests.csproj|d:\\fsd-casestudy\\nunit\\studentdal\\studenttests\\studenttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{18F604A4-FD11-45E9-86ED-7CD83668A847}|StudentTests\\StudentTests.csproj|solutionrelative:studenttests\\studenttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4707F3E9-A733-4EFA-848E-E2AA8EB35E4D}|StudentDAL\\StudentDAL.csproj|d:\\fsd-casestudy\\nunit\\studentdal\\studentdal\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentTests",
+              "DocumentIndex": 0,
+              "Title": "StudentTests.csproj",
               "DocumentMoniker": "D:\\FSD-casestudy\\nunit\\StudentDAL\\StudentTests\\StudentTests.csproj",
               "RelativeDocumentMoniker": "StudentTests\\StudentTests.csproj",
               "ToolTip": "D:\\FSD-casestudy\\nunit\\StudentDAL\\StudentTests\\StudentTests.csproj",
               "RelativeToolTip": "StudentTests\\StudentTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-11T02:40:44.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentServiceTests.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\nunit\\StudentDAL\\StudentTests\\StudentServiceTests.cs",
               "RelativeDocumentMoniker": "StudentTests\\StudentServiceTests.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentService.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\nunit\\StudentDAL\\StudentDAL\\BuisnessLogic\\StudentService.cs",
               "RelativeDocumentMoniker": "StudentDAL\\BuisnessLogic\\StudentService.cs",
@@ -76,13 +76,12 @@
               "RelativeToolTip": "StudentDAL\\BuisnessLogic\\StudentService.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAkwDEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T02:30:59.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:30:59.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentDAL",
+              "DocumentIndex": 3,
+              "Title": "StudentDAL.csproj",
               "DocumentMoniker": "D:\\FSD-casestudy\\nunit\\StudentDAL\\StudentDAL\\StudentDAL.csproj",
               "RelativeDocumentMoniker": "StudentDAL\\StudentDAL.csproj",
               "ToolTip": "D:\\FSD-casestudy\\nunit\\StudentDAL\\StudentDAL\\StudentDAL.csproj",
@@ -94,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InMemoryStudentRepository.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\nunit\\StudentDAL\\StudentDAL\\Repository\\InMemoryStudentRepository.cs",
               "RelativeDocumentMoniker": "StudentDAL\\Repository\\InMemoryStudentRepository.cs",
@@ -102,8 +101,7 @@
               "RelativeToolTip": "StudentDAL\\Repository\\InMemoryStudentRepository.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T02:28:35.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:28:35.553Z"
             },
             {
               "$type": "Document",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "StudentDAL\\Repository\\IStudentRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T02:27:58.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:27:58.745Z"
             },
             {
               "$type": "Document",
@@ -128,8 +125,7 @@
               "RelativeToolTip": "StudentDAL\\Domain\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T02:27:03.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T02:27:03.031Z"
             }
           ]
         }
