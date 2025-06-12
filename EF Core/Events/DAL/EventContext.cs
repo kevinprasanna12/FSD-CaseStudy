@@ -22,6 +22,9 @@ namespace DAL
             {
                 optionsBuilder.UseSqlServer(DatabaseHelper.GetConnectionString());
             }
+
+            base.OnConfiguring(optionsBuilder);
+
         }
 
     }

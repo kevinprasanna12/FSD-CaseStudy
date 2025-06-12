@@ -3,36 +3,16 @@
   "WorkspaceRootPath": "D:\\FSD-casestudy\\EF Core\\Events\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\models\\speakersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\models\\speakersdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|d:\\fsd-casestudy\\ef core\\events\\dal\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0596D49F-145B-4433-BA78-27D9CC231D49}|DAL\\DAL.csproj|solutionrelative:dal\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,107 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appSetting.json",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\appSetting.json",
-              "RelativeDocumentMoniker": "DAL\\appSetting.json",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\appSetting.json",
-              "RelativeToolTip": "DAL\\appSetting.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T03:39:57.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "DAL\\DatabaseHelper.cs",
               "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\DatabaseHelper.cs",
               "RelativeToolTip": "DAL\\DatabaseHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:37:50.274Z",
+              "WhenOpened": "2025-06-12T08:05:17.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\appsettings.json",
+              "RelativeDocumentMoniker": "DAL\\appsettings.json",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\appsettings.json",
+              "RelativeToolTip": "DAL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T08:03:05.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EventContext.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\EventContext.cs",
               "RelativeDocumentMoniker": "DAL\\EventContext.cs",
               "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\EventContext.cs",
               "RelativeToolTip": "DAL\\EventContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T03:27:19.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ParticipantEventDetails.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\ParticipantEventDetails.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\ParticipantEventDetails.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\ParticipantEventDetails.cs",
-              "RelativeToolTip": "DAL\\Models\\ParticipantEventDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:30:39.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SessionInfo.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\SessionInfo.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\SessionInfo.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\SessionInfo.cs",
-              "RelativeToolTip": "DAL\\Models\\SessionInfo.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:22:31.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SpeakersDetails.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\SpeakersDetails.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\SpeakersDetails.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\SpeakersDetails.cs",
-              "RelativeToolTip": "DAL\\Models\\SpeakersDetails.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:20:52.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventDetails.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\EventDetails.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\EventDetails.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\EventDetails.cs",
-              "RelativeToolTip": "DAL\\Models\\EventDetails.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:18:55.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserInfo.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\UserInfo.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\UserInfo.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\Events\\DAL\\Models\\UserInfo.cs",
-              "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T11:10:57.991Z",
+              "WhenOpened": "2025-06-12T07:58:40.368Z",
               "EditorCaption": ""
             }
           ]
