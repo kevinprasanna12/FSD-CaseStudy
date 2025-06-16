@@ -1,0 +1,31 @@
+﻿@model List<CaseStudy1.Models.ClientInfo>
+@* @{
+    ViewData["Title"] = "All Client Details";
+} *@
+<h2>All Clients</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Client ID</th>
+            <th>Company Name</th>
+            <th>Web URL</th>
+            <th>Email</th>
+            <th>Category</th>
+            <th>Standard</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>@client.ClientId</td>
+                <td>@client.CompanyName</td>
+                <td><a href="@client.WebUrl" target="_blank">@client.WebUrl</a></td>
+                <td>@client.Email</td>
+                <td>@client.Category</td>
+                <td>@client.Standard</td>
+            </tr>
+        }
+    </tbody>
+</table>

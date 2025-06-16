@@ -1,0 +1,33 @@
+﻿@model List<CaseStudy2.Models.ClientInfo>
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+<div class="container mt-4">
+    <h2 class="mb-4">All Client Details</h2>
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>ClientId</th>
+                <th>CompanyName</th>
+                <th>WebUrl</th>
+                <th>Email</th>
+                <th>Category</th>
+                <th>Standard</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var client in Model)
+            {
+                <tr>
+                    <td>@client.ClientId</td>
+                    <td>@client.CompanyName</td>
+                    <td>@client.WebUrl</td>
+                    <td>@client.Email</td>
+                    <td>@client.Category</td>
+                    <td>@client.Standard</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

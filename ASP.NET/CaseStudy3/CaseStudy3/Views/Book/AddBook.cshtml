@@ -1,0 +1,51 @@
+﻿@model CaseStudy3.Models.Book
+
+@{
+    ViewData["Title"] = "Add Book";
+}
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+
+
+<div class="container m-12">
+    
+    <h2>Add Book</h2>
+
+    <form asp-action="AddBook" method="post" class="form-horizontal">
+        <div class="form-group">
+            <label asp-for="Isbn">ISBN</label>
+            <input asp-for="Isbn" class="form-control" />
+            <span asp-validation-for="Isbn" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="BookName">BookName</label>
+            <input asp-for="BookName" class="form-control" />
+            <span asp-validation-for="BookName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AuthorName">AuthorName</label>
+            <input asp-for="AuthorName" class="form-control" />
+            <span asp-validation-for="AuthorName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PublishedDate">PublishedDate</label>
+            <input asp-for="PublishedDate" type="date" class="form-control" />
+            <span asp-validation-for="PublishedDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="BookUrl">BookUrl</label>
+            <input asp-for="BookUrl" class="form-control" />
+            <span asp-validation-for="BookUrl" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add Book</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

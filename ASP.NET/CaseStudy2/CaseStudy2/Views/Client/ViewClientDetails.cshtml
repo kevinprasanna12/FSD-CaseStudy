@@ -1,0 +1,23 @@
+﻿@model CaseStudy2.Models.ClientInfo
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+<div class="container mt-4">
+    <h2>Client Details</h2>
+    @if (Model != null)
+    {
+        <ul class="list-group">
+            <li class="list-group-item"><strong>Client ID:</strong> @Model.ClientId</li>
+            <li class="list-group-item"><strong>Company Name:</strong> @Model.CompanyName</li>
+            <li class="list-group-item"><strong>Web URL:</strong> @Model.WebUrl</li>
+            <li class="list-group-item"><strong>Email:</strong> @Model.Email</li>
+            <li class="list-group-item"><strong>Category:</strong> @Model.Category</li>
+            <li class="list-group-item"><strong>Standard:</strong> @Model.Standard</li>
+        </ul>
+    }
+    else
+    {
+        <p class="text-danger">Client not found.</p>
+    }
+</div>

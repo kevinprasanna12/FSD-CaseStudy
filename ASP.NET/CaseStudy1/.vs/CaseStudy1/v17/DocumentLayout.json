@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|d:\\fsd-casestudy\\ef core\\casestudy1\\casestudy1\\views\\client\\clientdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|solutionrelative:casestudy1\\views\\client\\clientdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|d:\\fsd-casestudy\\ef core\\casestudy1\\casestudy1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|solutionrelative:casestudy1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|d:\\fsd-casestudy\\ef core\\casestudy1\\casestudy1\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|solutionrelative:casestudy1\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|d:\\fsd-casestudy\\ef core\\casestudy1\\casestudy1\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|solutionrelative:casestudy1\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|d:\\fsd-casestudy\\ef core\\casestudy1\\casestudy1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|solutionrelative:casestudy1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|d:\\fsd-casestudy\\ef core\\casestudy1\\casestudy1\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|solutionrelative:casestudy1\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|d:\\fsd-casestudy\\ef core\\casestudy1\\casestudy1\\casestudy1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF06BBC3-1299-42CF-A799-C702B05D93CB}|CaseStudy1\\CaseStudy1.csproj|solutionrelative:casestudy1\\casestudy1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Views\\Client\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "CaseStudy1\\Views\\Client\\AddClient.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Views\\Client\\AddClient.cshtml",
+              "RelativeToolTip": "CaseStudy1\\Views\\Client\\AddClient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T11:40:03.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientDetail.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Views\\Client\\ClientDetail.cshtml",
+              "RelativeDocumentMoniker": "CaseStudy1\\Views\\Client\\ClientDetail.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Views\\Client\\ClientDetail.cshtml",
+              "RelativeToolTip": "CaseStudy1\\Views\\Client\\ClientDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T09:14:34.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Program.cs",
+              "RelativeDocumentMoniker": "CaseStudy1\\Program.cs",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Program.cs",
+              "RelativeToolTip": "CaseStudy1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:25:39.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowAllClientDetails.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeDocumentMoniker": "CaseStudy1\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeToolTip": "CaseStudy1\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-13T07:18:35.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "CaseStudy1\\Controllers\\ClientController.cs",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "CaseStudy1\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:07:23.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientInfo.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Models\\ClientInfo.cs",
+              "RelativeDocumentMoniker": "CaseStudy1\\Models\\ClientInfo.cs",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\Models\\ClientInfo.cs",
+              "RelativeToolTip": "CaseStudy1\\Models\\ClientInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:06:18.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CaseStudy1.csproj",
+              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\CaseStudy1.csproj",
+              "RelativeDocumentMoniker": "CaseStudy1\\CaseStudy1.csproj",
+              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy1\\CaseStudy1\\CaseStudy1.csproj",
+              "RelativeToolTip": "CaseStudy1\\CaseStudy1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-13T07:05:25.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
