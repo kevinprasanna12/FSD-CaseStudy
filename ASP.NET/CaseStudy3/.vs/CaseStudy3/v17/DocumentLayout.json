@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\",
+  "WorkspaceRootPath": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\ef core\\casestudy3\\casestudy3\\views\\book\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\asp.net\\casestudy3\\casestudy3\\views\\book\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|solutionrelative:casestudy3\\views\\book\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\ef core\\casestudy3\\casestudy3\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\asp.net\\casestudy3\\casestudy3\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|solutionrelative:casestudy3\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\ef core\\casestudy3\\casestudy3\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\asp.net\\casestudy3\\casestudy3\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|solutionrelative:casestudy3\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\ef core\\casestudy3\\casestudy3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\asp.net\\casestudy3\\casestudy3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|solutionrelative:casestudy3\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\ef core\\casestudy3\\casestudy3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|d:\\fsd-casestudy\\asp.net\\casestudy3\\casestudy3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B2D8EF-1024-4DE1-941B-70B27AF2209D}|CaseStudy3\\CaseStudy3.csproj|solutionrelative:casestudy3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,22 +36,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Program.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Program.cs",
               "RelativeDocumentMoniker": "CaseStudy3\\Program.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Program.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Program.cs",
               "RelativeToolTip": "CaseStudy3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:16:56.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:16:56.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookList.cshtml",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Views\\Book\\BookList.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Views\\Book\\BookList.cshtml",
               "RelativeDocumentMoniker": "CaseStudy3\\Views\\Book\\BookList.cshtml",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Views\\Book\\BookList.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Views\\Book\\BookList.cshtml",
               "RelativeToolTip": "CaseStudy3\\Views\\Book\\BookList.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -62,40 +61,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AddBook.cshtml",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Views\\Book\\AddBook.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Views\\Book\\AddBook.cshtml",
               "RelativeDocumentMoniker": "CaseStudy3\\Views\\Book\\AddBook.cshtml",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Views\\Book\\AddBook.cshtml",
               "RelativeToolTip": "CaseStudy3\\Views\\Book\\AddBook.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-15T13:15:32.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:15:32.434Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Controllers\\BookController.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "CaseStudy3\\Controllers\\BookController.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Controllers\\BookController.cs",
               "RelativeToolTip": "CaseStudy3\\Controllers\\BookController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:14:38.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:14:38.667Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Models\\Book.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Models\\Book.cs",
               "RelativeDocumentMoniker": "CaseStudy3\\Models\\Book.cs",
-              "ToolTip": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\Models\\Book.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\Models\\Book.cs",
               "RelativeToolTip": "CaseStudy3\\Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T13:12:03.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-15T13:12:03.764Z"
             }
           ]
         }

@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>LMS</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <a asp-controller="Home" asp-action="Index">Home</a> |
+            <a asp-controller="Home" asp-action="AboutUs">About Us</a> |
+            <a asp-controller="Home" asp-action="ContactUs">Contact Us</a> |
+            <a asp-controller="Home" asp-action="Login">Login</a>
+        </nav>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+    <footer>
+        <p>© 2025 KAAR Infotech</p>
+    </footer>
+</body>
+</html>

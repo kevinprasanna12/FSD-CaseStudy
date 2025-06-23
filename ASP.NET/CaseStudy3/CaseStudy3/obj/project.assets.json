@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\CaseStudy3.csproj",
+      "projectUniqueName": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\CaseStudy3.csproj",
       "projectName": "CaseStudy3",
-      "projectPath": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\CaseStudy3.csproj",
+      "projectPath": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\CaseStudy3.csproj",
       "packagesPath": "C:\\Users\\Kevin Prasanna\\.nuget\\packages\\",
-      "outputPath": "D:\\FSD-casestudy\\EF Core\\CaseStudy3\\CaseStudy3\\obj\\",
+      "outputPath": "D:\\FSD-casestudy\\ASP.NET\\CaseStudy3\\CaseStudy3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

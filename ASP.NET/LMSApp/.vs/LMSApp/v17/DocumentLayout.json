@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\trainer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\trainer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\learner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\learner\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\controller\\admincontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controller\\admincontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\controller\\trainercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controller\\trainercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\home\\contactus\u0027.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\contactus\u0027.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\controller\\learnercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controller\\learnercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|d:\\fsd-casestudy\\asp.net\\lmsapp\\lmsapp\\lmsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0B3DF59-56CE-4B10-B092-57B5BF3623CA}|LMSApp\\LMSApp.csproj|solutionrelative:lmsapp\\lmsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:35:38.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:44:18.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController1.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\AdminController1.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Controller\\AdminController1.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\AdminController1.cs",
+              "RelativeToolTip": "LMSApp\\Controller\\AdminController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:33:36.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Learner\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:46:29.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainerController1.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\TrainerController1.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Controller\\TrainerController1.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\TrainerController1.cs",
+              "RelativeToolTip": "LMSApp\\Controller\\TrainerController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:34:06.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Trainer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:45:13.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:40:06.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactUs\u0027.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\ContactUs\u0027.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\ContactUs\u0027.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\ContactUs\u0027.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\ContactUs\u0027.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:40:21.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:41:29.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Program.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Program.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Program.cs",
+              "RelativeToolTip": "LMSApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:36:50.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LMSApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T14:35:13.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LearnerController1.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\LearnerController1.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Controller\\LearnerController1.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\LearnerController1.cs",
+              "RelativeToolTip": "LMSApp\\Controller\\LearnerController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:34:26.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Models\\User.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Models\\User.cs",
+              "RelativeToolTip": "LMSApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:32:33.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "LMSApp\\Controller\\HomeController.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\Controller\\HomeController.cs",
+              "RelativeToolTip": "LMSApp\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:33:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LMSApp",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\LMSApp.csproj",
+              "RelativeDocumentMoniker": "LMSApp\\LMSApp.csproj",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.NET\\LMSApp\\LMSApp\\LMSApp.csproj",
+              "RelativeToolTip": "LMSApp\\LMSApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T14:34:44.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
