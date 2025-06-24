@@ -27,7 +27,7 @@ namespace AppUI.Controllers
             return client;
         }
 
-        // 🔹 GET: List of all events
+        //GET: List of all events
         [Route("EventList", Name = "EventList")]
         public async Task<IActionResult> GetAllEvents()
         {
@@ -36,7 +36,7 @@ namespace AppUI.Controllers
             return View("~/Views/EventDetails/EventList.cshtml", events);
         }
 
-        // 🔹 GET: Show add event form
+        //  GET: Show add event form
         [HttpGet]
         [Route("AddEvent", Name = "AddEvent")]
         public IActionResult AddEvent()
@@ -44,7 +44,7 @@ namespace AppUI.Controllers
             return View();
         }
 
-        // 🔹 POST: Save new event
+        //POST: Save new event
         [HttpPost]
         [Route("AddEvent")]
         public async Task<IActionResult> AddEvent(EventDetails eventDetails)
@@ -60,7 +60,7 @@ namespace AppUI.Controllers
             return View(eventDetails);
         }
 
-        // 🔹 GET: Load update form with event data
+        // GET: Load update form with event data
         [Route("UpdateEvent/{id}", Name = "UpdateEvent")]
         public async Task<IActionResult> UpdateEvent(int id)
         {
@@ -69,9 +69,9 @@ namespace AppUI.Controllers
             return View(eventDetails);
         }
 
-        // 🔹 POST: Update event
+        //POST: Update event
         [HttpPost]
-        [Route("EditEvent", Name = "EditEvent")]
+        [Route("UpdateEvent/{id}")]
         public async Task<IActionResult> UpdateEvent(EventDetails eventDetails)
         {
             var client = GetClient();
@@ -83,7 +83,7 @@ namespace AppUI.Controllers
             return View(eventDetails);
         }
 
-        // 🔹 GET: Confirm delete
+        // GET: Confirm delete
         [Route("DeleteEvent/{id}", Name = "DeleteEvent")]
         public async Task<IActionResult> DeleteEvent(int id)
         {
@@ -92,7 +92,7 @@ namespace AppUI.Controllers
             return View(evt);
         }
 
-        // 🔹 POST: Perform delete
+        // POST: Perform delete
         [HttpPost]
         [Route("RemoveEvent", Name = "RemoveEvent")]
         public async Task<IActionResult> DeleteEvent(EventDetails eventDetails)
@@ -106,7 +106,7 @@ namespace AppUI.Controllers
             return View();
         }
 
-        // 🔹 GET: Get single event by id
+        // GET: Get single event by id
         [Route("GetById/{id}", Name = "GetEventById")]
         public async Task<IActionResult> GetEventsById(int id)
         {

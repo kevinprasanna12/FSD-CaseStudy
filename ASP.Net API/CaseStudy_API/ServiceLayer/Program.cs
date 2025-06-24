@@ -17,20 +17,20 @@ namespace ServiceLayer
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // 🔹 Configuration: Connection string
+            // Configuration: Connection string
             builder.Services.AddDbContext<EventDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-            // 🔹 Register Repositories (Generic)
+            // Register Repositories (Generic)
             builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
-            // 🔹 Register JWT Service
+            // Register JWT Service
             builder.Services.AddSingleton<JwtService>();
 
-            // 🔹 Add Controller Support
+            // Add Controller Support
             builder.Services.AddControllers();
 
-            // 🔹 API Versioning
+            // API Versioning
             builder.Services.AddApiVersioning(config =>
             {
                 config.DefaultApiVersion = new Microsoft.AspNetCore.Mvc.ApiVersion(1, 0);
@@ -38,7 +38,7 @@ namespace ServiceLayer
                 config.ReportApiVersions = true;
             });
 
-            // 🔹 JWT Authentication Setup
+            // JWT Authentication Setup
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options =>
                 {
@@ -55,7 +55,7 @@ namespace ServiceLayer
 
             builder.Services.AddAuthorization();
 
-            // 🔹 Swagger Setup (With JWT Support)
+            // Swagger Setup (With JWT Support)
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen(c =>
             {
@@ -93,14 +93,14 @@ namespace ServiceLayer
 
             var app = builder.Build();
 
-            // 🔹 Middleware Pipeline
+            // Middleware Pipeline
             app.UseSwagger();
 
 
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "CaseStudy API v1");
-                c.RoutePrefix = "swagger"; // Optional: Show Swagger UI at root (localhost:port/)
+                c.RoutePrefix = "swagger"; //Swagger UI root 
             });
 
             app.UseAuthentication();  // JWT auth

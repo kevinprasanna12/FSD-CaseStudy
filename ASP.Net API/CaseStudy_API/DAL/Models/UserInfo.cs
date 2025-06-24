@@ -17,8 +17,8 @@ namespace DAL.Models
 
         [Required(ErrorMessage = "Role is required")]
         [RegularExpression("^(Admin|Participant)$", ErrorMessage = "Role must be 'Admin' or 'Participant'")]
-        public string Role { get; set; }
-        // Admin / Participant
+        public string Role { get; set; }  // Admin / Participant
+
 
         [Required, StringLength(20, MinimumLength = 6)]
         public string Password { get; set; }
