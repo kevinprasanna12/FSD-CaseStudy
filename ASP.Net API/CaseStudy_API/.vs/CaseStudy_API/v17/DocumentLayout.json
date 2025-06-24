@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\dal\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\servicelayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\dal\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\dal\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -174,25 +174,24 @@
               "RelativeToolTip": "DAL\\EventDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T03:18:32.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T03:18:32.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "EventDbContextFactory.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContextFactory.cs",
               "RelativeDocumentMoniker": "DAL\\EventDbContextFactory.cs",
               "ToolTip": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContextFactory.cs",
               "RelativeToolTip": "DAL\\EventDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T14:16:56.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\AuthController.cs",
@@ -200,12 +199,11 @@
               "RelativeToolTip": "ServiceLayer\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T03:00:14.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T03:00:14.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Controllers\\UsersController.cs",
@@ -213,12 +211,11 @@
               "RelativeToolTip": "ServiceLayer\\Controllers\\UsersController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:25:19.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:25:19.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\DTO\\LoginDto.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\DTO\\LoginDto.cs",
@@ -226,12 +223,11 @@
               "RelativeToolTip": "ServiceLayer\\DTO\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:49:20.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T10:49:20.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "JwtService.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\Services\\JwtService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\JwtService.cs",
@@ -239,12 +235,11 @@
               "RelativeToolTip": "ServiceLayer\\Services\\JwtService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T02:52:54.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T02:52:54.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\Program.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Program.cs",
@@ -257,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\appsettings.json",
               "RelativeDocumentMoniker": "ServiceLayer\\appsettings.json",
@@ -265,8 +260,7 @@
               "RelativeToolTip": "ServiceLayer\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-21T02:59:19.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T02:59:19.53Z"
             },
             {
               "$type": "Document",
@@ -278,8 +272,7 @@
               "RelativeToolTip": "DAL\\Repository\\Repository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T03:25:37.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-24T03:25:37.348Z"
             },
             {
               "$type": "Document",
@@ -291,8 +284,7 @@
               "RelativeToolTip": "DAL\\Models\\EventDetails.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:37:53.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:37:53.253Z"
             },
             {
               "$type": "Document",
@@ -304,8 +296,7 @@
               "RelativeToolTip": "AppUI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:16:06.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:16:06.536Z"
             },
             {
               "$type": "Document",
@@ -317,8 +308,7 @@
               "RelativeToolTip": "AppUI\\Views\\Participant\\UpdateParticipant.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:56:34.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:56:34.235Z"
             },
             {
               "$type": "Document",
@@ -330,8 +320,7 @@
               "RelativeToolTip": "AppUI\\Views\\Participant\\ParticipantList.cshtml",
               "ViewState": "AgIAAAQAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:57:21.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:57:21.865Z"
             },
             {
               "$type": "Document",
@@ -343,8 +332,7 @@
               "RelativeToolTip": "AppUI\\Views\\Participant\\DeleteParticipant.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:56:59.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:56:59.103Z"
             },
             {
               "$type": "Document",
@@ -356,8 +344,7 @@
               "RelativeToolTip": "AppUI\\Views\\Participant\\AddParticipant.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:26:56.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:26:56.905Z"
             },
             {
               "$type": "Document",
@@ -369,8 +356,7 @@
               "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T04:20:42.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-21T04:20:42.835Z"
             },
             {
               "$type": "Document",
@@ -382,8 +368,7 @@
               "RelativeToolTip": "AppUI\\Views\\EventDetails\\UpdateEvent.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:52:09.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:52:09.478Z"
             },
             {
               "$type": "Document",
@@ -395,8 +380,7 @@
               "RelativeToolTip": "AppUI\\Views\\EventDetails\\GetEventsById.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:54:12.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:54:12.742Z"
             },
             {
               "$type": "Document",
@@ -408,8 +392,7 @@
               "RelativeToolTip": "AppUI\\Views\\EventDetails\\EventList.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:53:45.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:53:45.365Z"
             },
             {
               "$type": "Document",
@@ -421,8 +404,7 @@
               "RelativeToolTip": "AppUI\\Views\\EventDetails\\DeleteEvent.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:52:35.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:52:35.598Z"
             },
             {
               "$type": "Document",
@@ -434,8 +416,7 @@
               "RelativeToolTip": "AppUI\\Views\\EventDetails\\AddEvent.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-22T13:23:57.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:23:57.272Z"
             },
             {
               "$type": "Document",
@@ -447,8 +428,7 @@
               "RelativeToolTip": "AppUI\\Models\\UserInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:06:28.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:06:28.452Z"
             },
             {
               "$type": "Document",
@@ -460,8 +440,7 @@
               "RelativeToolTip": "AppUI\\Models\\SpeakerDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:07:58.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:07:58.541Z"
             },
             {
               "$type": "Document",
@@ -473,8 +452,7 @@
               "RelativeToolTip": "AppUI\\Models\\SessionInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:08:16.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:08:16.488Z"
             },
             {
               "$type": "Document",
@@ -486,8 +464,7 @@
               "RelativeToolTip": "AppUI\\Models\\ParticipantEventDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:07:31.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:07:31.349Z"
             },
             {
               "$type": "Document",
@@ -499,8 +476,7 @@
               "RelativeToolTip": "AppUI\\Models\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:45:24.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T10:45:24.413Z"
             },
             {
               "$type": "Document",
@@ -512,8 +488,7 @@
               "RelativeToolTip": "AppUI\\Models\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T10:43:14.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T10:43:14.549Z"
             },
             {
               "$type": "Document",
@@ -525,8 +500,7 @@
               "RelativeToolTip": "AppUI\\Models\\EventDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:06:55.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:06:55.911Z"
             },
             {
               "$type": "Document",
@@ -538,8 +512,7 @@
               "RelativeToolTip": "AppUI\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:10:52.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:10:52.529Z"
             },
             {
               "$type": "Document",
@@ -551,8 +524,7 @@
               "RelativeToolTip": "AppUI\\Controllers\\ParticipantDetailController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:12:01.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:12:01.917Z"
             },
             {
               "$type": "Document",
@@ -564,8 +536,7 @@
               "RelativeToolTip": "AppUI\\Controllers\\EventDetailsController.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAADwv2wAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T13:11:12.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T13:11:12.402Z"
             },
             {
               "$type": "Document",
