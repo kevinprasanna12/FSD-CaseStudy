@@ -1,0 +1,15 @@
+<p>employee works!</p>
+
+<div *ngIf="employees.length===0">
+    No data
+</div>
+
+<div *ngIf="employees.length > 0">
+    <ul *ngFor="let emp of employees" [ngStyle]="{'background': emp.isPresent ? 'green' : emp.workfromhome ? 'blue' : 'red'}">
+        <li>{{emp.name}}</li>
+        <span 
+        [ngStyle]="{'color' : emp.department==='IT' ? 'blue' : emp.department ==='HR' ? 'purple' : emp.department === 'Sales' ? 'Orange' : 'Gray'}">
+            {{emp.department}}
+    </span>
+    </ul>
+</div>

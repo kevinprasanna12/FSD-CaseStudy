@@ -1,0 +1,19 @@
+<p>student works!</p>
+
+<div *ngIf="students.length === 0">
+    No students found
+  </div>
+
+  <div *ngIf="students.length > 0">
+    <div *ngFor="let student of students"
+    [ngClass]="{
+      'pass': student.marks >= 50,
+      'fail': student.marks < 50 }"
+    [ngStyle]="{'font-weight': student.isActive ? 'bold' : 'normal'}">
+
+        <span>{{student.name}}</span>
+        <span>{{student.marks}}</span>
+        <span>{{ getStatus(student.marks)}}</span>
+    </div>
+
+  </div>

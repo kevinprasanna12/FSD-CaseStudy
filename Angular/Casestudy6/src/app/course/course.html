@@ -1,0 +1,19 @@
+<p>course works!</p>
+
+<div *ngIf = "courses.length === 0" class="No-data">
+   <h1> No course fouund</h1>
+</div>
+
+<div *ngIf="courses.length > 0">
+    <ul>
+        <li *ngFor="let c of courses">
+            <span>Title : {{c.title | uppercase}}</span><br>
+            <span> Instuctor: {{c.instructor | lowercase}}</span><br>
+            <span>Start <span style="color: red;">ON</span> : {{c.date | date: 'dd/MM/yyyy'}}</span><br>
+            <span>Price : {{c.price | currency:'INR'}}</span><br>
+            <span>About : {{c.description | slice:0:30}}</span><br>
+            <hr>
+        </li>
+    </ul>
+
+</div>

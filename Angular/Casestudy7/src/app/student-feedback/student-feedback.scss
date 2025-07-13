@@ -1,0 +1,30 @@
+.form-container {
+    background: #f9f9f9;
+    padding: 1rem;
+    border-radius: 8px;
+    max-width: 400px;
+    margin-bottom: 1rem;
+  
+    label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-weight: 500;
+  
+      input, select, textarea {
+        width: 100%;
+        padding: 0.5rem;
+        margin-top: 0.2rem;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+      }
+    }
+  }
+  
+  .preview-container {
+    border: 2px dashed #4CAF50;
+    background: #e8f5e9;
+    padding: 1rem;
+    border-radius: 8px;
+    max-width: 400px;
+  }
+  

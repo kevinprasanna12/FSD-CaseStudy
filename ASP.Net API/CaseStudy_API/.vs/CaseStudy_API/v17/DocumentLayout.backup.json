@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D498D82A-852A-45DF-8D83-E3A4708E21B8}|DAL\\DAL.csproj|solutionrelative:dal\\eventdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\servicelayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DB71061-7077-48B3-AA96-D7564843BC09}|ServiceLayer\\ServiceLayer.csproj|d:\\fsd-casestudy\\asp.net api\\casestudy_api\\servicelayer\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -162,29 +162,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventDbContext.cs",
-              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\EventDbContext.cs",
-              "ToolTip": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContext.cs",
-              "RelativeToolTip": "DAL\\EventDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T03:18:32.845Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EventDbContextFactory.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContextFactory.cs",
               "RelativeDocumentMoniker": "DAL\\EventDbContextFactory.cs",
-              "ToolTip": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContextFactory.cs*",
-              "RelativeToolTip": "DAL\\EventDbContextFactory.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContextFactory.cs",
+              "RelativeToolTip": "DAL\\EventDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T14:16:56.546Z",
               "EditorCaption": ""
@@ -239,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\Program.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Program.cs",
@@ -247,20 +235,31 @@
               "RelativeToolTip": "ServiceLayer\\Program.cs",
               "ViewState": "AgIAAF0AAAAAAAAAAAAswGYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T12:43:06.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T12:43:06.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\appsettings.json",
               "RelativeDocumentMoniker": "ServiceLayer\\appsettings.json",
               "ToolTip": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\ServiceLayer\\appsettings.json",
               "RelativeToolTip": "ServiceLayer\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-21T02:59:19.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EventDbContext.cs",
+              "ToolTip": "D:\\FSD-casestudy\\ASP.Net API\\CaseStudy_API\\DAL\\EventDbContext.cs",
+              "RelativeToolTip": "DAL\\EventDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:18:32.845Z"
             },
             {
               "$type": "Document",
